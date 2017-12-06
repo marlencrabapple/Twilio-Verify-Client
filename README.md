@@ -1,5 +1,5 @@
 # Twilio::Verify::Client #
-A client for a limited subset of Twilio's SMS verification API.
+A client for a limited subset of Twilio's SMS verification JSON REST API.
 
 ## Example Usage ##
 ```
